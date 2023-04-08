@@ -1,0 +1,10 @@
+body {
+  background-color: white;
+}
+
+.stopwatch-time {
+  text-align: center;
+  color: rgb(44, 100, 232);
+  font-size: 40px;
+  margin: 0 auto;
+}
